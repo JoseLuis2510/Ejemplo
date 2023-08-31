@@ -10,4 +10,5 @@ package com.mycompany.ejemplore;
  */
 public class Prueba {
     String nombre;
+    int edad;
 }
